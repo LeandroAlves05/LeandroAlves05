@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋 welcome to my profile page!
 
-<!--
-**LeandroAlves05/LeandroAlves05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🦱 I'm Leandro Alves
 
-Here are some ideas to get you started:
+🖥️ Software Engineer - Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Linkedin: [My Profile](https://www.linkedin.com/in/leandro-alves-65b5552a1/)
+
+🧠 My knowledge and experience:
+- Languages
+  - Javascript
+  - Typescript
+
+- Frameworks
+  - Node.js
+  - Next.js
+  - React.js
+  - Vue.js
+  - Stencil.js
+  - Ember.js
+  - Flask
+
+- Tools and techniques
+  - Rest API
+  - Docker
+  - PostgreSQL
+  - Jest
+  - Vitest
+  - Web Components (ionic, Material UI)
+
+🇧🇷 Brazil
