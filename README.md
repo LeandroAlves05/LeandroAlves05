@@ -6,7 +6,7 @@
 
 🔗 Linkedin: [My Profile](https://www.linkedin.com/in/leandro-alves-65b5552a1/)
 
-🧠 My knowledge and experience:
+#### 🧠 My knowledge and experience:
 - Languages
   - Javascript
   - Typescript
