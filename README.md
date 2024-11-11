@@ -10,20 +10,21 @@
 - Languages
   - Javascript
   - Typescript
+  - Python
 
 - Frameworks
   - Node.js
   - Next.js
   - React.js
-  - Vue.js
-  - Stencil.js
   - Ember.js
   - Flask
 
 - Tools and techniques
   - Rest API
+  - FastAPI
   - Docker
   - PostgreSQL
+  - SQLAlchemy
   - Jest
   - Vitest
   - Web Components (ionic, Material UI)
